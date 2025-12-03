@@ -1,4 +1,4 @@
-````markdown
+
 # Nifty 50 Pairs Trading Terminal (EOD)
 
 Professional **Streamlit-based pairs trading terminals** for the **Nifty 50** universe built on end-of-day (EOD) data.
