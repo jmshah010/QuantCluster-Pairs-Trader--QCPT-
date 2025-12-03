@@ -221,6 +221,3 @@ Both versions are meant to **teach and demonstrate** how professional-style pair
 * **Advanced Version** → Adds realistic institutional layers: dynamic hedge, mean-reversion diagnostics, risk, and costs.
 
 Use them as a **research toolkit**, adapt the logic, and always validate with your own tests before using anything in real markets.
-
-```
-```
